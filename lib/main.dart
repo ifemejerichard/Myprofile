@@ -74,42 +74,6 @@ class Mycard extends StatelessWidget {
                           )
                       )
                   ),
-                  /*Container(
-                    margin: const EdgeInsets.symmetric(vertical: 7, horizontal: 20),
-                    color: Colors.teal,
-                    child: Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children:  <Widget>[
-                          Card(
-                            color: Colors.teal,
-                            child: Column(
-                                children:  <Widget>[
-                                  Image.asset('images/mine.jpg', scale: 13),
-                                  const Text ('Ifemx@gmail.com',
-                                      style: TextStyle(
-                                          fontSize: 17, color: Colors.white,
-                                          fontWeight: FontWeight.w500)
-                                  ),
-                                ]
-                            ),
-                          ),
-                          Card(
-                            color: Colors.teal,
-                            child: Column(
-                                children:  <Widget>[
-                                  Image.asset('images/mine.jpg', scale: 13),
-                                  const Text ('Ifemx@gmail.com',
-                                      style: TextStyle(
-                                          fontSize: 17, color: Colors.white,
-                                          fontWeight: FontWeight.w500)
-                                  ),
-                                ]
-                            ),
-                          )
-                        ],
-                    ),
-                  )*/
-
                 ],
               )
           )
